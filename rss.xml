@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Canal de Voyages</title>
+    <link>https://laurabaenag.github.io/proyecto</link>
+    <description>Este es un canal de noticias para mi página web Voyages.</description>
+    <language>es</language>
+    
+    <item>
+      <title>Las mejores ofertas que nunca había imaginado.</title>
+      <link>https://visitqatar.com/es-es/plan-your-trip/travel-deals-offers?utm_source=GSEA&utm_medium=SEA&utm_campaign=AON_PLA_ES_MDSWW_SEA_GSEA_VQ_RSA_X_X_MX_X-X-ES&gclid=CjwKCAiA3pugBhAwEiwAWFzwdQoUu8z92mlDtq9au6zDP59L8j7d-aPiZ1cA9c99ZUDKSZBzaTo4qhoCKDwQAvD_BwE</link>
+      <description>Aquí podrás encontrar ofertas increíbles para tus esperadas vacaciones.</description>
+      <updated>2023-02-15</updated> 
+    </item>
+    <item>
+      <title>Vuela a Marruecos con un 40%.</title>
+      <link>https://www.edreams.es/promo/turismo/marruecos/</link>
+      <description>Reserva ya tu vuelo a Marruecos con un 40%. ¡NO LO DEJES ESCAPAR!</description>
+      <updated>2022-01-27</updated> 
+    </item>
+  </channel>
+</rss>
